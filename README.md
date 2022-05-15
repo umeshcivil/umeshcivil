@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Umesh SS Salunkhe
+- 👀 I’m interested in teaching & creating dashboard
+- 🌱 I’m currently learning MIS
